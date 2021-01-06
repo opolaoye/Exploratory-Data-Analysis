@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# K-Means Clustering - Data Exploration
+# Data Exploration - For K-Mean Clustering Technique
 # ==========================================
 # ***
 # 
